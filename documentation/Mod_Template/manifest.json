@@ -181,3 +181,11 @@
     },
     "version": "1.0"
 }
+@font-face {
+  font-family: 'Minecraftia';
+  src: url('https://dl.dafont.com/dl/?f=minecraftia') format('truetype');
+}
+
+* {
+  font-family: 'Minecraftia', sans-serif !important;
+}
